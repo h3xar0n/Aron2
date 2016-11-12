@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my second attempt at successfully launching a RoR app--let's hope it works.
 
 Things you may want to cover:
 
